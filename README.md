@@ -95,7 +95,7 @@ MIT License
 ## Contact
 For questions or feedback:
 - Open an issue on this GitHub repository.
-- Email: ugyen.tshering@student.aiu.edu.my
+- Email: hamid.ahmed@student.aiu.edu.my
 
 ## Acknowledgments
 - **AlBukhary International University**: For academic support and guidance.
@@ -107,3 +107,4 @@ For questions or feedback:
 ---
 
 *Note*: This project is actively being developed, with training on Google Colab Pro Plus. The README will be updated with milestones, including the architectural diagram, training scripts, and detailed setup instructions.
+

@@ -106,5 +106,10 @@ For questions or feedback:
 
 ---
 
+
+<img width="1905" height="804" alt="image" src="https://github.com/user-attachments/assets/f26f5c6e-61de-4f8c-9c57-67d6b68df52f" />
+
+
 *Note*: This project is actively being developed, with training on Google Colab Pro Plus. The README will be updated with milestones, including the architectural diagram, training scripts, and detailed setup instructions.
+
 
